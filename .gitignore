@@ -1,0 +1,12 @@
+# JetBrains IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Env file
+.env
+
+# ALfred specific
+.prefs.plist
